@@ -1,0 +1,19 @@
+body {
+  display: block;
+  margin: 10px;
+  padding: 20px;
+  background-color: lightblue;
+}
+
+h1 {
+  font-size: 80px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 80px;
+}
+
+.fa-cloud-sun {
+  font-size: 40px;
+}
